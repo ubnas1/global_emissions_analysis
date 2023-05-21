@@ -13,6 +13,13 @@
  
  ![image](https://github.com/ubnas1/global_emmisions_analysis/assets/116352196/9c696d83-ea65-4ad4-a8c7-d43602e074ca)
  
+ 
+ # Total emissions of selected country
+ 
+ User can also see a line-chart of any country's emissions per year by selecting the country's name from the dropdown menu. 
+ 
+ ![image](https://github.com/ubnas1/global_emmisions_analysis/assets/116352196/03cab151-1c2c-4340-83dc-4c23d90d64c5)
+ 
 * Data Source
 
 1) https://www.kaggle.com/datasets/justin2028/total-emissions-per-country-2000-2020
