@@ -1,14 +1,25 @@
 # # Global Emission (2000-2020)
 
- As global warming becomes worse, by analysing this dataset we tried to attempt make visualization about each countries contribution in global warming. 
-
+ As global warming becomes worse, by analysing this dataset I have made visualizations of each countries' contribution in emissions of CO2.
+ 
+ 
+ ## Result
+ ---------
+ 
+ 
+ # Top contributing countries
+ 
+ In year 2020, top contributing countries were China, USA, India, Brazil, Indonesia
+ 
+ ![image](https://github.com/ubnas1/global_emmisions_analysis/assets/116352196/9c696d83-ea65-4ad4-a8c7-d43602e074ca)
+ 
 * Data Source
 
 1) https://www.kaggle.com/datasets/justin2028/total-emissions-per-country-2000-2020
 
  
 
-* Dependancies:
+* Dependencies:
 1) Database : SQLite
 2) Python 3.9 for Flask (API) 
 3) JavaScript library : D3, plotly.js, chart.js, Leaflet.js
